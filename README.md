@@ -1,5 +1,12 @@
 # 🎬 Movie Recommendation System
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movierecommendation-4lbuycqngkptzoj93p4qfh.streamlit.app/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+> 🚀 **Live Demo:** Try out the web app here 👉 **[movierecommendation.streamlit.app](https://movierecommendation-4lbuycqngkptzoj93p4qfh.streamlit.app/)**
+
 A modern, full-stack Movie Recommendation System combining **Natural Language Processing (NLP)**, **Content-Based Filtering (TF-IDF & Cosine Similarity)**, and live data enrichment via the **TMDB (The Movie Database) API**. 
 
 The project features a decoupled architecture with a high-performance **FastAPI** backend and an interactive, responsive **Streamlit** web frontend.
